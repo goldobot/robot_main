@@ -1,0 +1,6 @@
+[points]
+start_yellow 1000 500
+accel_yellow 2000 2000
+
+[edges]
+start_yellow,accel_yellow
